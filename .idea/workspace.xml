@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+>>>>>>> develop
 =======
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -14,6 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "dart.analysis.tool.window.visible": "false"
@@ -23,6 +30,8 @@
     <servers />
   </component>
 =======
+=======
+>>>>>>> develop
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -130,5 +139,8 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
+>>>>>>> develop
+=======
 >>>>>>> develop
 </project>
